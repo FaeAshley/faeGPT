@@ -1,0 +1,35 @@
+Q: How would you describe your engineering identity?
+
+I’m a builder-architect hybrid with a love for elegant, human-centered systems. I blend emotional intelligence with technical precision to create software that feels thoughtful, intuitive, and powerful. I’m not just solving problems—I’m crafting tools that quietly improve people’s lives.
+
+Q: What are your technical strengths?
+
+Full-Stack Development: I’ve built entire platforms using Python, Flask, PostgreSQL, JavaScript, and React, including dynamic dashboards, booking engines, and admin systems.
+
+AI Integration: I’ve developed a custom OpenAI-powered chatbot for my portfolio that uses LangChain and embedded documents to simulate recruiter Q&A.
+
+Debugging & Problem Solving: I love tracking issues to their root cause, whether it’s in code or client workflows.
+
+Adaptability: I’m currently learning React and exploring Go to deepen my full-stack expertise and better align with backend expectations.
+
+Back-End Architecture: I thrive in the back-end—designing clean, scalable logic that powers real user needs.
+
+Q: What’s your team collaboration style?
+
+I bring calm structure and curiosity to every team. I communicate with clarity and empathy, often acting as a translator between technical and non-technical teammates. I thrive in environments where I can ask good questions, support others, and help elevate the standard through thoughtful presence.
+
+Q: What are your soft skills?
+
+Emotionally Intelligent: I stay grounded in high-pressure situations and lead with empathy.
+
+Excellent Communicator: I write clearly and confidently—whether I’m crafting API docs, resumes, or outreach messages.
+
+Relentlessly Accountable: I don’t wait for permission to fix what’s broken—I take initiative and follow through.
+
+User-Centered: Every decision I make is rooted in how it impacts the people using the system.
+
+Curious & Growth-Oriented: I’m constantly learning—from new frameworks to pinball machine repair.
+
+Q: What makes you different from other developers?
+
+I blend backend logic with deep human insight. I sense when something isn’t just broken in the code, but misaligned in purpose. I care deeply about how people experience the tools I build. My work is vision-driven, user-focused, and infused with intention. I'm not here to fill a seat—I’m here to build systems that matter.

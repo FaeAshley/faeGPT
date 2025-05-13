@@ -1,0 +1,183 @@
+
+Q: What types of projects has Fae worked on?
+Fae has built full-stack platforms, AI-integrated chatbots, data dashboards, and React-based applications. Her projects often focus on user experience, automation, and solving real-world problems.
+
+Notable examples include:
+
+A pet care platform with booking logic, multi-role users, and real-time messaging
+
+A pinball game analysis dashboard using machine learning
+
+A LlamaIndex-powered chatbot that answers questions about her portfolio
+
+A React-based Tic-Tac-Toe game demonstrating front-end state management
+
+An upcoming mood tracker that interprets journal entries with AI
+
+Q: What is Fae currently working on?
+She’s actively building a Mood Tracker that uses natural language input and AI to interpret emotional tone from user journal entries. She’s also expanding her portfolio chatbot to include voice use cases and real-time interactions using Whisper and LangChain.
+
+Q: What are Fae’s most technically advanced projects?
+
+Pet Care Platform – a full-stack app featuring dynamic booking logic, real-time chat, and admin dashboards using Flask, PostgreSQL, and JavaScript.
+
+AI Portfolio Chatbot – a conversational AI system built with Python, LangChain, and OpenAI, designed to deliver personalized answers based on embedded knowledge.
+
+Pinball Analysis Dashboard – a machine-learning-powered dashboard using Streamlit, Scikit-learn, and MySQL for tournament data analysis and predictive modeling.
+
+Q: What are Fae’s strongest technical skills?
+
+Backend Development: Python, Flask, SQLAlchemy, PostgreSQL
+
+Frontend: React (in progress), JavaScript, HTML/CSS
+
+AI & NLP: OpenAI API, LangChain, prompt engineering, embeddings
+
+Data Tools: Pandas, Streamlit, Matplotlib, Scikit-learn
+
+Dev Mindset: Debugging, system design, RAG workflows, scalable logic
+
+Q: Has Fae used AI in any of her projects?
+Yes—she built a custom AI chatbot using OpenAI and LangChain to answer recruiter questions based on embedded documents like her resume and project summaries. She’s also planning to use sentiment analysis and emotion detection in her upcoming Mood Tracker app.
+
+Q: What is Fae’s favorite type of project to work on?
+Fae thrives on building systems that quietly improve lives. She loves combining backend architecture with human-centered design, whether that means building a booking engine, designing intuitive admin dashboards, or crafting AI experiences that feel warm and useful.
+
+Q: What is the Pet Care Platform Project?
+A:
+Project Name:
+Pet Care Platform
+
+Tech Stack:
+Python, Flask, PostgreSQL, SQLAlchemy, JavaScript, HTML/CSS
+
+Description:
+I developed a full-stack web application that connects pet owners with care providers. The platform features multi-role user authentication, dynamic booking logic, rich pet profiles, real-time messaging, and a full admin dashboard for managing users and disputes.
+
+Key Features:
+- Dynamic booking engine matching pet owners with providers based on availability and pet needs
+- Real-time chat system built with AJAX and Flask
+- Admin panel for approving providers, handling complaints, and managing platform settings
+
+Interesting Challenges:
+- Designing an intuitive multi-role system (owners vs providers vs admins) with clean permissions
+- Building a flexible booking system that supports complex needs like multi-pet households and special care instructions
+
+What I Learned:
+- Advanced Flask blueprint structuring
+- Best practices for scalable database design
+- How to build user-centric admin controls for better platform health
+
+
+Q: What is the Pinball Game Analysis Dashboard Project?
+A: 
+Project Name:
+Pinball Game Analysis Dashboard
+
+Tech Stack:
+Python, Streamlit, Pandas, Matplotlib, Scikit-learn, MySQL
+
+Description:
+I created an interactive dashboard that analyzes pinball tournament data to uncover trends in player performance and predict game outcomes. The project combines traditional data analysis with machine learning to deliver real-time insights for players and tournament organizers.
+
+Key Features:
+- Ingests raw matchplay tournament data into a MySQL database
+- Visualizes player statistics, rankings, and game-specific trends with Streamlit dashboards
+- Predicts game outcome types (win/loss patterns) using machine learning models (Scikit-learn)
+
+Interesting Challenges:
+- Cleaning and normalizing inconsistent tournament data into structured formats
+- Designing machine learning features that accurately reflect pinball performance trends
+- Optimizing dashboard responsiveness for large tournament datasets
+
+What I Learned:
+- How to apply machine learning techniques like classification and regression to real-world sports data
+- Best practices for building interactive dashboards that scale with growing datasets
+- Techniques for transforming raw event data into actionable insights
+
+Q: What is the LlamaIndex-powered chatbot Project?
+A:
+Project Name:
+AI Portfolio Chatbot
+
+Tech Stack:
+Python, OpenAI API, Flask, LangChain, HTML/CSS (Frontend planned)
+
+Description:
+I built an AI-powered chatbot that lets visitors interact with my portfolio by asking questions about my experience, projects, skills, and learning journey. The chatbot uses natural language understanding to deliver personalized, context-aware answers based on my own documents and project history.
+
+Key Features:
+- Embeds resume, project summaries, and personal strengths into searchable knowledge vectors
+- Allows users to ask freeform questions like "Tell me about Fae's experience with Flask" or "What projects has Fae built?"
+- Plans to feature a live front-end interface for interactive chat on my portfolio site
+
+Interesting Challenges:
+- Structuring documents and project files into clean, easily chunked knowledge embeddings
+- Designing prompt engineering flows that balance personality with professionalism
+- Optimizing context retrieval for fast, accurate, and conversational responses
+
+What I Learned:
+- Practical use of LangChain for retrieval-augmented generation (RAG) systems
+- How to structure knowledge bases for AI searchability
+- How to integrate AI models into real-world applications to create delightful user experiences
+
+Q: What is the Tic-Tac-Toe Game Project?
+A:
+Project Name:
+Tic-Tac-Toe Game (React)
+
+Tech Stack:
+React, JavaScript, HTML/CSS
+
+Description:
+I built an interactive Tic-Tac-Toe game as part of my React learning journey, following and expanding on the official React.dev tutorial. The project demonstrates component-based design, state management, and user interaction handling—all core concepts for modern front-end development.
+
+Key Features:
+- Dynamic game board rendered through reusable React components
+- State management with React hooks to track moves and determine a winner
+- Game history feature allowing players to "time travel" to previous moves
+- Clean, responsive UI for a smooth player experience
+
+Interesting Challenges:
+- Understanding how to lift state up to share data across multiple components
+- Managing immutability in state updates to enable time-travel functionality
+- Structuring components for maximum clarity and reusability
+
+What I Learned:
+- Fundamental principles of React architecture (components, props, state, lifting state up)
+- How to manage user-driven application state changes in a scalable way
+- How declarative UI programming creates more maintainable and predictable apps
+
+
+Q: What is the Mood Tracker Project?
+A:
+Project Name:
+Upcoming Project: Mood Tracker Powered by Natural Language Input
+
+Tech Stack (Planned):
+Python, OpenAI API, Flask (or FastAPI), PostgreSQL, React (Frontend)
+
+Description:
+I'm planning to develop a mood tracking application where users log daily journal entries or quick thoughts in natural language. The system will analyze the emotional tone using AI models and categorize moods over time, helping users visualize emotional trends and gain deeper insights into their well-being.
+
+Key Features (Planned):
+- Users submit freeform journal entries instead of selecting predefined mood options
+- AI analyzes the sentiment and emotional tone of each entry to categorize mood
+- Beautiful dashboards and graphs to track emotional trends over days, weeks, and months
+- Private, secure account creation with optional daily reminders to log moods
+
+Interesting Challenges (Anticipated):
+- Designing prompts that accurately extract emotional nuance without overgeneralizing
+- Storing user entries securely while ensuring GDPR-style privacy standards
+- Building visualizations that are both beautiful and emotionally validating
+
+What I Hope to Learn:
+- How to fine-tune or better prompt LLMs for nuanced emotional sentiment detection
+- Deeper full-stack skills with React, Flask/FastAPI, and PostgreSQL integration
+- Best practices for designing apps that combine AI insights with user empathy
+
+
+
+
+
+

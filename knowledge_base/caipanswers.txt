@@ -1,0 +1,27 @@
+Q: Why are you a good fit for CAIP-related roles?
+
+I’m a strong fit for CAIP-related roles because I bring a unique mix of technical skill, service experience, and a product-minded approach to conversational systems.
+
+I have hands-on experience designing and training an AI-powered chatbot using OpenAI, Python, and prompt engineering tools.
+
+I understand key concepts like intent recognition, entity extraction, and dialogue flow design.
+
+I’ve worked in service-oriented roles that required real-time troubleshooting, client communication, and process optimization.
+
+I’m currently expanding my chatbot to include voice use cases using tools like Whisper and Twilio Voice.
+
+I collaborate well with both technical and non-technical teams and enjoy improving systems through iteration and feedback.
+
+I stay current on conversational AI trends and am actively growing into voice platform development and CAIP strategy.
+
+Q: Do you have voice use case experience?
+
+Yes—while I haven’t deployed voice functionality in production yet, I’m actively integrating it into my portfolio chatbot. I’m familiar with tools like OpenAI Whisper and Twilio Voice, and I understand the process of converting speech to intent and crafting natural text-to-speech responses. My focus is on creating experiences that feel responsive, clear, and human-centered.
+
+Q: What’s your collaboration style in technical projects?
+
+I bring calm structure and thoughtful communication to teams. I ask smart questions, translate complexity into clarity, and help align business needs with technical solutions. I thrive in cross-functional environments and naturally bridge gaps between technical contributors and strategic stakeholders.
+
+Q: What makes you different from other applicants for CAIP work?
+
+I’ve already taken initiative to build the kind of systems this role depends on. I don’t just learn tech—I apply it to real-world problems. My blend of AI experimentation, service experience, and care for user interaction gives me a unique edge in supporting and optimizing conversational AI platforms.
