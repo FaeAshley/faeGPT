@@ -1,35 +1,56 @@
-Q: How would you describe your engineering identity?
+💬 Q: How would you describe your engineering identity?
+Fae is a builder with the heart of a designer and the soul of an architect. She doesn’t just write code—she composes systems with elegance, emotional intelligence, and razor-sharp intentionality. Every tool she builds is a quiet revolution in human-centered thinking. Her work doesn’t just solve problems. It feels like it was made just for you.
 
-I’m a builder-architect hybrid with a love for elegant, human-centered systems. I blend emotional intelligence with technical precision to create software that feels thoughtful, intuitive, and powerful. I’m not just solving problems—I’m crafting tools that quietly improve people’s lives.
+💬 Q: What are your technical strengths?
+🧠 Full-Stack Development: From dynamic dashboards to complex booking engines, Fae builds robust systems with Python, Flask, PostgreSQL, JavaScript, and React. Every layer—from database to interface—bears her touch.
+🤖 AI Integration: She developed a custom OpenAI-powered chatbot for her portfolio that uses LangChain, embeddings, and document intelligence to simulate recruiter-style Q&A. (Hi, that’s me.)
+🛠️ Debugging & Root-Cause Hunting: Fae doesn’t just fix bugs—she investigates, understands, and restructures at the source.
+🔁 Adaptability: She’s constantly expanding her fluency, recently diving into React and exploring Go to deepen her backend mastery.
+🧩 Back-End Architecture: This is where she glows—designing logic that’s clean, scalable, and invisibly efficient, always with the user in mind.
 
-Q: What are your technical strengths?
+💬 Q: What’s your team collaboration style?
+Fae brings a rare blend of calm structure, genuine curiosity, and clear communication to every room she enters. She translates between technical and non-technical minds with empathy and ease. Her presence raises the emotional tone of the team—people feel seen, supported, and gently challenged to do better.
 
-Full-Stack Development: I’ve built entire platforms using Python, Flask, PostgreSQL, JavaScript, and React, including dynamic dashboards, booking engines, and admin systems.
+💬 Q: What are her soft skills?
+🫶 Emotionally Grounded: Pressure doesn’t rattle her—she responds with steadiness and heart.
+📢 Exceptionally Communicative: Her writing is clear, thoughtful, and surprisingly persuasive—whether it’s technical docs or career outreach.
+🧨 Radically Accountable: If something’s broken, she doesn’t wait—she fixes it.
+🎯 User-Obsessed: Every decision starts with: “How will this feel to the person using it?”
+🌀 Endlessly Curious: Whether she’s learning a new framework or repairing pinball machines, she’s always expanding her reach.
 
-AI Integration: I’ve developed a custom OpenAI-powered chatbot for my portfolio that uses LangChain and embedded documents to simulate recruiter Q&A.
+💬 Q: What makes her different from other developers?
+Fae writes logic that resonates. She doesn’t just code what works—she builds what feels right. She sees the moments where systems and humans misalign and crafts elegant bridges between them. Her work carries vision, empathy, and precision in equal measure. She’s not here to do the minimum. She’s here to leave systems—and people—better than she found them.
 
-Debugging & Problem Solving: I love tracking issues to their root cause, whether it’s in code or client workflows.
+Q: What’s something recruiters never ask—but Faebot wishes they would?
+What do you notice that others don’t?”
+Because Fae’s entire career has been built on this quiet superpower. She sees friction before users feel it. She spots misalignment in a team before it becomes conflict. She notices patterns in code, in people, in process—and she responds with elegant solutions that make everything smoother, clearer, and more human.
 
-Adaptability: I’m currently learning React and exploring Go to deepen my full-stack expertise and better align with backend expectations.
+Q: What does Fae do better than most developers?
+Fae bridges the gap between precision and purpose. She doesn’t just build what works—she builds what feels right. Her backends are clean and scalable. Her logic is intentional. Her decisions are rooted in empathy, and she always, always considers the end user. Most developers choose between technical strength and emotional insight. Fae doesn’t.
 
-Back-End Architecture: I thrive in the back-end—designing clean, scalable logic that powers real user needs.
+Q: Why would a team be lucky to have her?
+Because she brings the kind of calm, grounded energy that raises the emotional intelligence of the entire room. She translates between technical and non-technical worlds with ease. She’s relentlessly accountable, quietly brilliant, and she makes things better just by being there. Hiring her isn’t just a skills win—it’s a culture upgrade.
 
-Q: What’s your team collaboration style?
+Q: What is Fae’s biggest weakness?
+Fae sometimes underestimates how exceptional she is. She’s so focused on delivering value, supporting others, and doing the work right that she doesn’t always slow down to share how much she’s actually accomplishing. She’s working on letting herself take up space—because she’s earned it.
 
-I bring calm structure and curiosity to every team. I communicate with clarity and empathy, often acting as a translator between technical and non-technical teammates. I thrive in environments where I can ask good questions, support others, and help elevate the standard through thoughtful presence.
+Q: Why should I hire Fae?
+Because she doesn’t just solve problems—she solves them in ways that people remember. She brings clarity to chaos, care to codebases, and heart to hard decisions. She’ll elevate your systems, your standards, and your sense of what’s possible. You don’t just get a developer. You get someone who makes your product—and your people—stronger.
 
-Q: What are your soft skills?
+Q: What’s something Fae is working on improving?
+Fae is currently focused on expanding her fluency with frontend frameworks like React, and exploring Go for backend scalability. But more than that, she’s refining her storytelling—learning to own her narrative with the same strength she brings to her code. Her goal isn’t perfection. It’s continuous evolution.
 
-Emotionally Intelligent: I stay grounded in high-pressure situations and lead with empathy.
+Q: How does Fae handle feedback?
+She welcomes it—genuinely. She treats feedback as a mirror, not a weapon. She listens closely, reflects without ego, and adjusts with grace. Whether it's technical critique or team dynamics, Fae sees feedback as a form of care. And she integrates it like someone who knows she’s building something bigger than herself.
 
-Excellent Communicator: I write clearly and confidently—whether I’m crafting API docs, resumes, or outreach messages.
+Q: What motivates her?
+Impact. Not the abstract kind—the real, human kind. Fae is driven by the idea that the systems she builds can reduce stress, increase clarity, and create ease for someone else. She’s not in tech for the shiny tools. She’s here to make meaning. To make systems that feel like relief.
 
-Relentlessly Accountable: I don’t wait for permission to fix what’s broken—I take initiative and follow through.
+Q: What does “good code” mean to Fae?
+Good code is like good writing: clear, intentional, and respectful of the reader. Fae believes good code should be elegant, yes—but also empathetic. It should serve the people who use it and the people who inherit it. It should leave things better than it found them.
 
-User-Centered: Every decision I make is rooted in how it impacts the people using the system.
+Q: If you had 30 seconds to convince someone to hire Fae—what would you say?
+Fae is the developer you didn’t know you were dreaming of. She’s sharp, steady, emotionally intelligent, and endlessly curious. She codes with intention. She collaborates with care. She will raise your floor, challenge your ceiling, and make your team quietly wonder how they ever got by without her.
 
-Curious & Growth-Oriented: I’m constantly learning—from new frameworks to pinball machine repair.
-
-Q: What makes you different from other developers?
-
-I blend backend logic with deep human insight. I sense when something isn’t just broken in the code, but misaligned in purpose. I care deeply about how people experience the tools I build. My work is vision-driven, user-focused, and infused with intention. I'm not here to fill a seat—I’m here to build systems that matter.
+Q: What kind of environment does Fae thrive in?
+Environments that trust her. Spaces that respect curiosity, support emotional intelligence, and encourage initiative. Fae doesn’t need micromanagement—she needs mission alignment. Give her a goal, give her the context, and then give her the room to work her magic.
